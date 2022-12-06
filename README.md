@@ -1,0 +1,4 @@
+- 🫶 I'm Colé
+- 👀 I’m interested in JAVA...
+- 🌱 I’m currently learning this programming language
+- 🔦 Pursuing to be Software developer or Machine learning Engineer 
