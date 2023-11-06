@@ -16,6 +16,7 @@
   <img src="Gif/city.gif" width="850px" title="Yey!"/> 
 </p>
 
+
 <div class="row" align="center">
   <h2> <strong> Active in </strong></h2>
   <p align="center">
