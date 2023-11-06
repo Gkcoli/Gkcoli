@@ -1,7 +1,7 @@
 <img align="center" src="Gif/hey.gif" width=950px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
-<img align="right" src="Gif/aesthetic-typing.gif" width="245" title="Hi!" /> 
+<img align="right" src="Gif/aesthetic-typing.gif" width="245" title="Get to Know Me!" /> 
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
@@ -23,17 +23,10 @@
   <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
-    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="python">
-    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript">
-    <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="html">
-    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="css">
-      <br> </br>
-    <img src="https://skillicons.dev/icons?i=bash,git,php" title="skills actively learning logos">
-  </p>
-<p align="center">
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go" title="skills planning to learn logos">
-</p>
+    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+   <img  alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" title="java">
+    ''
+  
   
 <br></br>
 <br></br>
@@ -45,7 +38,6 @@
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=Obliviate!" align="middle" alt="Obliviate! animated typed out">
 
 <section>
   <h3 align="center"> <strong> Connect With Me </strong></h3>
