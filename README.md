@@ -10,6 +10,7 @@
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python, and Java for Now
 🖥️ Interested in learning Advance Database and Full Backend Software
+```
 
 <p align="center"> 
   <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
