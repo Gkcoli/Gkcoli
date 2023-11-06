@@ -1,7 +1,7 @@
 <img align="center" src="Gif/hey.gif" width=950px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
-<img align="right" src="Gif/aesthetic-typing.gif" width="245" title="Get to Know Me!" /> 
+<img align="right" src="Gif/aesthetic-typing.gif" width="250" title="Get to Know Me!" /> 
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
@@ -13,14 +13,11 @@
 ```
 
 <p align="center"> 
-  <img src="assets/car.gif" width="950px" title="Yey!"/> 
+  <img src="Gif/city.gif" width="950px" title="Yey!"/> 
 </p>
 
-  <img align="left" src="assets/city.gif" title="Fav city scene" width="400"/>
-  <br></br>  
-  
 <div class="row" align="center">
-  <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
+  <img align="center" src="Gif/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
