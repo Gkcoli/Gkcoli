@@ -1,4 +1,4 @@
-<img align="center" src="Gif/programmer.gif" width=950px /> 
+<img align="center" src="Gif/programmer.gif" width=850px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
 <img align="right" src="Gif/aesthetic-typing.gif" width="345" title="Hi!" /> 
