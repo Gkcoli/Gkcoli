@@ -1,7 +1,7 @@
-<img align="center" src="Gif/programmer.gif" width=850px /> 
+<img align="center" src="Gif/hey.gif" width=950px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
-<img align="right" src="Gif/aesthetic-typing.gif" width="345" title="Hi!" /> 
+<img align="right" src="Gif/aesthetic-typing.gif" width="245" title="Hi!" /> 
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
@@ -50,7 +50,8 @@
 <section>
   <h3 align="center"> <strong> Connect With Me </strong></h3>
 
-  [<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
-  [<img align="center" src="https://img.icons8.com/doodle/96/5eT5OnLluNOx/instagram.png" width="50" title="spotify">](https://www.instagram.com/aouiara/?hl=en)
+ <a href="https://fb.com/gian colinares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gian colinares" height="30" width="40" /></a>
+<a href="https://instagram.com/aymno.coli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aymno.coli" height="30" width="40" /></a>
+</p>
 
 </section>
