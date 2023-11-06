@@ -17,7 +17,6 @@
 </p>
 
 <div class="row" align="center">
-  <img align="center" src="Gif/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
@@ -31,9 +30,6 @@
   <img align="right" src="assets/maw.gif" width="170" title="maw"/>
   <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
 
-
-<!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <section>
