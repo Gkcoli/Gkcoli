@@ -1,23 +1,15 @@
-<img align="center" src="assets/catto.gif" width=950px /> 
+<img align="center" src="Gif/programmer.gif" width=950px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
-<img align="left" src="assets/em.gif" width="270" title="Hi!" /> 
+<img align="right" src="Gif/aesthetic-typing.gif" width="345" title="Hi!" /> 
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
 🔎 Main interests in A.I and Data Analysis
-🔭 Working on my Mental Health
+🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
-🌟 Main languages: Python, Java, php 
-🚩 Interested in learning network security and web security
-💖 In a complicated relationship with loops and Eclipse IDE
-🖌️ Love reading non fictions, sports, gaming, watching movies and stargazing
-🎵 Love alternative rock, jazz, pop, classical and blues
-☕ Interest: Dogs, Self Care, Cats, Coffee, and Coding.
-🐾 I’m looking to network and make friends here!
-🌊 Hobbies: Crochet, Anime, Gacha Games, and Books.
-```
-
+🌟 Main languages: Python, and Java for Now
+🖥️ Interested in learning Advance Database and Full Backend Software
 
 <p align="center"> 
   <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
