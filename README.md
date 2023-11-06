@@ -1,5 +1,5 @@
 <img align="center" src="Gif/hey.gif" width=950px /> 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out" title="Hey Fellow Programmers">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
 <img align="right" src="Gif/aesthetic-typing.gif" width="245" title="Get to Know Me!" /> 
 
@@ -13,7 +13,7 @@
 ```
 
 <p align="center"> 
-  <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
+  <img src="assets/car.gif" width="950px" title="Yey!"/> 
 </p>
 
   <img align="left" src="assets/city.gif" title="Fav city scene" width="400"/>
