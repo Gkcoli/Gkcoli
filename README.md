@@ -5,11 +5,11 @@
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
-🔎 Main interests in A.I and Data Analysis
+🔎 Main interests in A.I and Visual Representation
 🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
-🌟 Main languages: Python, and Java for Now
-🖥️ Interested in learning Advance Database and Full Backend Software
+🌟 Main languages: Python, Java, Sql and HTML (haha mahirap)
+🖥️ Interested in learning Zero Shot Model, Voice Recognition and Machine learning  
 ```
 
 <p align="center"> 
@@ -28,8 +28,8 @@
   
    <h3 align="center"> <strong> Connect With Me </strong></h3>
 
-  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" title="facebook">](https://www.facebook.com/coalii)
-  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" title="instagram">](https://www.instagram.com/aymno.coli)
+  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" title="facebook">](https://www.facebook.com/share/1fGd1Fm99KYDt2Rw/?mibextid=LQQJ4d)
+  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" title="instagram">](https://www.instagram.com/gkcoli_)
 </section>
   
 <br></br>
