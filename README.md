@@ -9,7 +9,7 @@
 🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python, Java, Sql and HTML (haha mahirap)
-🖥️ Interested in learning Zero Shot Model, Voice Recognition and Machine learning  
+🖥️ Interested in learning Zero Shot Model, and Machine learning  
 ```
 
 <p align="center"> 
