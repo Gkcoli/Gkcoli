@@ -29,7 +29,7 @@
    <h3 align="center"> <strong> Connect With Me </strong></h3>
 
   [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" title="facebook">](https://www.facebook.com/share/1fGd1Fm99KYDt2Rw/?mibextid=LQQJ4d)
-  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" title="instagram">](https://www.instagram.com/gkcoli_)
+  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" title="instagram">](https://www.instagram.com/colecoli_)
 </section>
   
 <br></br>
