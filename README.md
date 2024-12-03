@@ -9,7 +9,7 @@
 🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python & Java
-💀 Still Enhancing at: Figma & Html
+💀 Still Enhancing at: Figma & HTML
 ```
 
 <p align="center"> 
