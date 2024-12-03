@@ -10,7 +10,6 @@
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python & Java
 💀 Still Enhancing at: Figma & Html
-🖥️ Interested in learning Zero Shot Model, and Machine learning  
 ```
 
 <p align="center"> 
