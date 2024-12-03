@@ -4,11 +4,12 @@
 <img align="right" src="Gif/aesthetic-typing.gif" width="250" title="Get to Know Me!" /> 
 
 ```
-🏫 BS Computer Science with specialization in Machine Learning student 
-🔎 Main interests in A.I and Visual Representation
+🏫 BS Computer Science with specialization in Machine Learning student at National University Manila
+🔎 Main interests in Machine learning, UI/UX, A.I
 🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
-🌟 Main languages: Python, Java, Sql and HTML (haha mahirap)
+🌟 Main languages: Python & Java
+💀 Still Enhancing at: Figma & Html
 🖥️ Interested in learning Zero Shot Model, and Machine learning  
 ```
 
