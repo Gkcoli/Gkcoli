@@ -22,6 +22,8 @@
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
    <img  alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" title="java">
+   <img alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" title="html">
+
     
     
   <section>
