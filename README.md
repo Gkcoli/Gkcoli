@@ -4,12 +4,11 @@
 <img align="right" src="Gif/aesthetic-typing.gif" width="250" title="Get to Know Me!" /> 
 
 ```
-🏫 BS Computer Science with specialization in Machine Learning student at National University Manila
-🔎 Main interests in Machine learning, UI/UX, A.I
+🏫 BS Computer Science with specialization in Machine Learning student at National University - Manila
+🔎 Main interests in Machine learning, Data Science
 🧑‍💻 Working to have a Wealthy Lifestyle
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python & Java
-💀 Still Enhancing at: Figma & HTML
 ```
 
 <p align="center"> 
@@ -22,8 +21,7 @@
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
    <img  alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" title="java">
-   <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" title="html">
-   <img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="100" title="figma">
+
 
 
     
