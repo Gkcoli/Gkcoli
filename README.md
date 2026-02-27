@@ -33,6 +33,8 @@
   [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" title="facebook">](https://www.facebook.com/share/1fGd1Fm99KYDt2Rw/?mibextid=LQQJ4d)
   [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" title="instagram">](https://www.instagram.com/colecoli_)
   [<img align="center" img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="50" title="LinkedIn">](https://www.linkedin.com/in/gkcolinares)
+  [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="50" title="Portfolio">](https://gklc-portfolio.vercel.app)
+
 </section>
   
 <br></br>
