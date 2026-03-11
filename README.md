@@ -4,11 +4,11 @@
 <img align="right" src="Gif/aesthetic-typing.gif" width="250" title="Get to Know Me!" /> 
 
 ```
-🏫 BS Computer Science with specialization in Machine Learning student at National University - Manila
-🔎 Main interests in Machine learning, Data Science
-🧑‍💻 Working to have a Wealthy Lifestyle
-🌱 Learning about Machine Learning 
-🌟 Main languages: Python & Java
+🎓 BS Computer Science student specializing in Machine Learning, National University - Manila
+💡 Passionate about Machine Learning, Data Science, and AI-driven solutions
+🧑‍💻 Developing scalable software and data-driven applications
+🌱 Continuously advancing skills in Python, Java, and modern ML frameworks
+🚀 Focused on leveraging technology for impactful and innovative solutions
 ```
 
 <p align="center"> 
