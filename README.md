@@ -7,7 +7,7 @@
 🎓 BS Computer Science student specializing in Machine Learning, National University - Manila
 💡 Passionate about Machine Learning, Data Science, and AI-driven solutions
 🧑‍💻 Developing scalable software and data-driven applications
-🌱 Continuously advancing skills in Python, Java, and modern ML frameworks
+🌱 Continuously advancing skills in Python, Java, ML frameworks, Data Science
 🚀 Focused on leveraging technology for impactful and innovative solutions
 ```
 
