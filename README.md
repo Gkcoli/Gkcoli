@@ -1,5 +1,5 @@
 <img align="center" src="Gif/hey.gif" width=1000px /> 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Welcome to my Git Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=+Annyeong%2C+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Welcome to my Github Profile! animated typed out">
 
 <img align="right" src="Gif/aesthetic-typing.gif" width="250" title="Get to Know Me!" /> 
 
